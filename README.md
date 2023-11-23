@@ -29,11 +29,11 @@ n=y
 y=a
 print("Swapped values are: {} {}".format(n,y))
 ~~~
-
-## RESULT:
-Thus the swapping of two values are successfully executed
 ## OUTPUT
 ![image](https://github.com/karthikkrishna16/Swapping-two-values/assets/148514663/2d0a93b8-3ab0-42e2-8f06-e0b89c6509f6)
+## RESULT:
+Thus the swapping of two values are successfully executed
+
 
 
 
